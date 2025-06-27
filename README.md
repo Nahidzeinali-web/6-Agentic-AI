@@ -1,4 +1,4 @@
-# 🔍 LangChain RAG Pipeline Tutorial Summary
+# 🔍 Agent RAG Pipeline 
 
 This tutorial demonstrates how to build a Retrieval-Augmented Generation (RAG) pipeline using LangChain and OpenAI models, enhanced with LangGraph for structured agent workflows.
 
